@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Badami Amarnath
 
-<!--
-**BadamiAmarnath/BadamiAmarnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Data Engineer  
+📊 Passionate about Big Data & Distributed Systems  
+⚙️ Learning to build scalable and reliable data pipelines  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- Python
+- SQL
+- Git & GitHub
+- HTML (Basics)
+- JavaScript (Basics)
+
+---
+
+## 📚 Currently Learning
+
+- Apache Spark
+- Apache Kafka
+- Data Warehousing
+- ETL Pipelines
+- Distributed Systems
+
+---
+
+## 🔥 Featured Project
+
+### 🔐 Secure Steganography Web App
+A web-based application that hides and extracts secret messages inside images.
+
+🌐 Live Demo:
+https://badamiamarnath.github.io/stego-image/
+
+---
+
+## 🎯 Career Goal
+
+To become a professional Data Engineer capable of designing scalable, efficient, and secure data systems.
+
+---
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/BadamiAmarnath
